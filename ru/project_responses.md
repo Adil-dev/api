@@ -1,4 +1,4 @@
-# Получение списка проектов
+# Получение списка респондентов по проекту
 
 `POST api.hrmessenger.com/v1/projects/{project_id}/responses` вернёт список респондентов по проекту с ID `{project_id}`
 
